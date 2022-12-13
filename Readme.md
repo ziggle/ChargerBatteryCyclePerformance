@@ -42,5 +42,8 @@ Another factor that is important is the amount of time the battery sits "floatin
 
 ### Battery Recovery Characteristic
 
+I took a look at how quickly the battery recovers from being discharged. The recovery characteristic is not an exponential, but I decided to model it as such. The time constant is 1.3 minutes with a recovery amplitude of 0.42 V.
+
+![Battery Recovery Data](Images/BatteryRecovery.png)
 
 ## Conclusion
