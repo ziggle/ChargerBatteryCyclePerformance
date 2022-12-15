@@ -1,7 +1,7 @@
 ![Pouch Cell](./Images/PouchCellPicture.png)
 <br>
 <h3 align=center>I am testing a pouch cell</h2>
-<h4 align=center>Photo by David Ballew on Unsplash<a href="https://en.wikipedia.org/wiki/Ironclad_warship">ironclad-on-ironclad battle</a>.</h3>
+<h4 align=center>Photo by David Ballew on Unsplash.</h3>
 <br>
 
 
